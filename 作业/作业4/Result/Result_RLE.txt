@@ -1,0 +1,116 @@
+
+！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+Image1
+
+RLE
+
+t1 =
+
+     1
+
+
+info = 
+
+  淫根參和忖粁議 struct:
+
+     rows: 256
+     cols: 256
+    ratio: 1.2796
+
+
+cr =
+
+    1.2796
+
+  Name              Size                Bytes  Class    Attributes
+
+  I               256x256x3            196608  uint8              
+  unzipped        256x256               65536  uint8              
+  zipped        41931x2                 83862  uint8              
+
+！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+Image2
+
+RLE
+
+t1 =
+
+     1
+
+
+info = 
+
+  淫根參和忖粁議 struct:
+
+     rows: 256
+     cols: 256
+    ratio: 0.7285
+
+
+cr =
+
+    0.7285
+
+  Name              Size                Bytes  Class    Attributes
+
+  I               256x256x3            196608  uint8              
+  unzipped        256x256               65536  uint8              
+  zipped        23872x2                 47744  uint8              
+
+！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+Image3
+
+RLE
+
+t1 =
+
+     1
+
+
+info = 
+
+  淫根參和忖粁議 struct:
+
+     rows: 256
+     cols: 256
+    ratio: 0.4986
+
+
+cr =
+
+    0.4986
+
+  Name              Size                Bytes  Class    Attributes
+
+  I               256x256x3            196608  uint8              
+  unzipped        256x256               65536  uint8              
+  zipped        16339x2                 32678  uint8              
+
+！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+Image4
+
+RLE
+
+t1 =
+
+     1
+
+
+info = 
+
+  淫根參和忖粁議 struct:
+
+     rows: 256
+     cols: 256
+    ratio: 0.7090
+
+
+cr =
+
+    0.7090
+
+  Name              Size                Bytes  Class    Attributes
+
+  I               256x256x3            196608  uint8              
+  unzipped        256x256               65536  uint8              
+  zipped        23231x2                 46462  uint8              

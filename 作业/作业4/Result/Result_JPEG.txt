@@ -1,0 +1,75 @@
+K1 = 
+
+  包含以下字段的 struct:
+
+           Filename: 'C:\Users\Pengbing\Desktop\My Documents\HDU\课程\数字图像处理\作业\作业4\IMAGE\lena_20.jpg'
+        FileModDate: '17-Dec-2017 21:23:57'
+           FileSize: 11894
+             Format: 'jpg'
+      FormatVersion: ''
+              Width: 512
+             Height: 512
+           BitDepth: 8
+          ColorType: 'grayscale'
+    FormatSignature: ''
+    NumberOfSamples: 1
+       CodingMethod: 'Huffman'
+      CodingProcess: 'Sequential'
+            Comment: {}
+
+质量因子:20
+均方根误差:1042.251953
+压缩比：22.040020
+压缩后图像大小：11894.000000
+
+————————————————————————————————————
+
+K2 = 
+
+  包含以下字段的 struct:
+
+           Filename: 'C:\Users\Pengbing\Desktop\My Documents\HDU\课程\数字图像处理\作业\作业4\IMAGE\lena_60.jpg'
+        FileModDate: '17-Dec-2017 21:23:57'
+           FileSize: 24076
+             Format: 'jpg'
+      FormatVersion: ''
+              Width: 512
+             Height: 512
+           BitDepth: 8
+          ColorType: 'grayscale'
+    FormatSignature: ''
+    NumberOfSamples: 1
+       CodingMethod: 'Huffman'
+      CodingProcess: 'Sequential'
+            Comment: {}
+
+质量因子:60
+均方根误差:709.375000
+压缩比：10.888187
+压缩后图像大小：24076.000000
+
+————————————————————————————————————
+
+K3 = 
+
+  包含以下字段的 struct:
+
+           Filename: 'C:\Users\Pengbing\Desktop\My Documents\HDU\课程\数字图像处理\作业\作业4\IMAGE\lena_80.jpg'
+        FileModDate: '17-Dec-2017 21:23:58'
+           FileSize: 37937
+             Format: 'jpg'
+      FormatVersion: ''
+              Width: 512
+             Height: 512
+           BitDepth: 8
+          ColorType: 'grayscale'
+    FormatSignature: ''
+    NumberOfSamples: 1
+       CodingMethod: 'Huffman'
+      CodingProcess: 'Sequential'
+            Comment: {}
+
+质量因子:80
+均方根误差:571.544922
+压缩比：6.909982
+压缩后图像大小：37937.000000

@@ -1,0 +1,132 @@
+
+！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+Image1
+
+Huffman
+
+erms =
+
+     0
+
+
+info = 
+
+  淫根參和忖粁議 struct:
+
+           pad: 5
+     huffcodes: [104563〜1 double]
+         ratio: 0.9235
+        length: 65536
+    maxcodelen: 16
+          rows: 256
+          cols: 256
+
+
+cr =
+
+    0.9235
+
+  Name            Size               Bytes  Class    Attributes
+
+  data          256x256              65536  uint8              
+  unzipped      256x256              65536  uint8              
+  zipped          1x60522            60522  uint8              
+
+！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+Image2
+
+Huffman
+
+erms =
+
+     0
+
+
+info = 
+
+  淫根參和忖粁議 struct:
+
+           pad: 3
+     huffcodes: [6848〜1 double]
+         ratio: 0.9689
+        length: 65536
+    maxcodelen: 12
+          rows: 256
+          cols: 256
+
+
+cr =
+
+    0.9689
+
+  Name            Size               Bytes  Class    Attributes
+
+  data          256x256              65536  uint8              
+  unzipped      256x256              65536  uint8              
+  zipped          1x63495            63495  uint8              
+
+！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+Image3
+
+Huffman
+
+erms =
+
+     0
+
+
+info = 
+
+  淫根參和忖粁議 struct:
+
+           pad: 7
+     huffcodes: [112347〜1 double]
+         ratio: 0.8945
+        length: 65536
+    maxcodelen: 16
+          rows: 256
+          cols: 256
+
+
+cr =
+
+    0.8945
+
+  Name            Size               Bytes  Class    Attributes
+
+  data          256x256              65536  uint8              
+  unzipped      256x256              65536  uint8              
+  zipped          1x58623            58623  uint8     
+           
+！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+Image4
+
+Huffman
+
+erms =
+
+     0
+
+
+info = 
+
+  淫根參和忖粁議 struct:
+
+           pad: 4
+     huffcodes: [8135〜1 double]
+         ratio: 0.9667
+        length: 65536
+    maxcodelen: 12
+          rows: 256
+          cols: 256
+
+
+cr =
+
+    0.9667
+
+  Name            Size               Bytes  Class    Attributes
+
+  data          256x256              65536  uint8              
+  unzipped      256x256              65536  uint8              
+  zipped          1x63352            63352  uint8              
